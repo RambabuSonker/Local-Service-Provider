@@ -132,7 +132,7 @@ npm run dev
 ```
 
 ## 📸 Project Screenshots
-![Project Screenshot](Screenshot 2026-06-13 002414.png)
+![Project Screenshot](Screenshot%2026-06-13%002414.png)
 
 
 Frontend runs on `http://localhost:8080` and proxies `/api` to backend `http://localhost:4000`.
