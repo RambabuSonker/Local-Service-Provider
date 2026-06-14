@@ -131,6 +131,10 @@ npm install
 npm run dev
 ```
 
+## 📸 Project Screenshots
+![Project Screenshot](screenshot.png)
+
+
 Frontend runs on `http://localhost:8080` and proxies `/api` to backend `http://localhost:4000`.
 
 - Extendability: the codebase is modular — adding payments, internationalization, or advanced reviews is straightforward.
